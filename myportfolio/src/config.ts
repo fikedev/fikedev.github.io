@@ -1,0 +1,10 @@
+export const homeURL = '/home';
+export const experienceURL = '/experience';
+export const contactURL = '/contact';
+export const personalEmail = 'fikexlg@gmail.com';
+export const personalPhoneNumber = '+251 913-91-36-91';
+export const personalLocation = 'Ethiopia, Africa';
+export const linkedInURL = 'https://www.linkedin.com/in/fekadu-laloto/';
+export const gitHubURL = 'https://github.com/fikedev/';
+export const twitterURL = 'https://twitter.com/fikecomp';
+export const appTitle = 'FikedevPersonal';
